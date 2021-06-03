@@ -21,7 +21,7 @@ For the backend a much more reputable and sophisticated language would be used l
 But things have changed over the years. Now, JavaScript can be used across the full stack for different applications.
 This means, for example, a Model View Controller (MVC) web application wouldn't only require familiarity with this one language from the developer but also the ability to develop on all parts of the application.
 
-## Real-time data streaming aka the problem that FeathersJS is trying to solve
+## Real-time data streaming aka the problem that FeathersJS tries to solve
 
 A modern backend API typically uses REST to send data to and from clients in a stateless manner.
 However, a lot of web applications now require real-time data.
